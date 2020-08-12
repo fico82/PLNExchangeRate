@@ -1,0 +1,9 @@
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLNExchangeRate.Data\bin\Debug\netcoreapp2.2\PLNExchangeRate.Data.deps.json
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLNExchangeRate.Data\bin\Debug\netcoreapp2.2\PLNExchangeRate.Data.dll
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLNExchangeRate.Data\bin\Debug\netcoreapp2.2\PLNExchangeRate.Data.pdb
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLNExchangeRate.Data\obj\Debug\netcoreapp2.2\PLNExchangeRate.Data.csproj.CoreCompileInputs.cache
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLNExchangeRate.Data\obj\Debug\netcoreapp2.2\PLNExchangeRate.Data.AssemblyInfoInputs.cache
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLNExchangeRate.Data\obj\Debug\netcoreapp2.2\PLNExchangeRate.Data.AssemblyInfo.cs
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLNExchangeRate.Data\obj\Debug\netcoreapp2.2\PLNExchangeRate.Data.dll
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLNExchangeRate.Data\obj\Debug\netcoreapp2.2\PLNExchangeRate.Data.pdb
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLNExchangeRate.Data\obj\Debug\netcoreapp2.2\PLNExchangeRate.Data.csprojAssemblyReference.cache

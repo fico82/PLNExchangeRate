@@ -1,0 +1,61 @@
+﻿@model PLN_ExchangeRate.Models.ExchangeModel;
+
+<div class="clearfix">
+
+    <div class="card border-secondary mb-3 mr-5 float-left" style="max-width: 18rem;">
+        <div class="card-header text-center">
+            <i class="fas fa-dollar-sign" style="color: green; font-size: 18px;"></i>
+            DOLAR AMERYKAŃSKI
+        </div>
+        <div class="card-body">
+            <p class="card-text">
+                <span class="font-weight-bold">
+                    @Model.effectiveDateEUR
+                </span>
+                @Model.midUSD złoty <br />
+                <span class="font-weight-bold">
+                    @Model.effectiveDateEUR1
+                </span>
+                @Model.midUSD1 złoty <br />
+                <span class="font-weight-bold">
+                    Zmiana:
+                </span>
+                @if (@Model.midUSD > @Model.midUSD1)
+                    {<i class="fas fa-minus mr-1" style="color:green; font-size: 18px;"></i>@Model.changeUSD<span class="ml-1 mr-1">%</span>}
+                @if (@Model.midUSD < @Model.midUSD1)
+                    {<i class="fas fa-plus mr-1" style="color:red; font-size: 18px;"></i>@Model.changeUSD<span class="ml-1 mr-1">%</span>}
+                else
+                    {<i class="fas fa-equals mr-1" style="color:blue; font-size: 18px;"></i>@Model.changeUSD<span class="ml-1 mr-1">%</span>}
+            </p>
+        </div>
+    </div>
+
+    <div class="card border-secondary mb-3 float-left" style="max-width: 18rem;">
+        <div class="card-header text-center">
+            <i class="fas fa-euro-sign text-center" style="color: darkblue; font-size: 18px;"></i>
+            EURO
+        </div>
+        <div class="card-body">
+            <p class="card-text">
+                <span class="font-weight-bold">
+                    @Model.effectiveDateUSD
+                </span>
+                @Model.midEUR złoty <br />
+                <span class="font-weight-bold">
+                    @Model.effectiveDateUSD1
+                </span>
+                @Model.midEUR1 złoty <br />
+                <span class="font-weight-bold">
+                    Zmiana:
+                </span>
+                @if (@Model.midEUR > @Model.midEUR1)
+                    {<i class="fas fa-minus mr-1" style="color:green; font-size: 18px;"></i>@Model.changeEUR<span class="ml-1 mr-1">%</span>}
+                @if (@Model.midEUR < @Model.midEUR1)
+                    {<i class="fas fa-plus mr-1" style="color:red; font-size: 18px;"></i>@Model.changeEUR<span class="ml-1 mr-1">%</span>}
+                else
+                    {<i class="fas fa-equals mr-1" style="color:blue; font-size: 18px;"></i>@Model.changeEUR<span class="ml-1 mr-1">%</span>}
+            </p>
+        </div>
+    </div>
+
+</div>

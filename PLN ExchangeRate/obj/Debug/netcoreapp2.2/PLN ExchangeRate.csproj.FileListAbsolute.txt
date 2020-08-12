@@ -1,0 +1,30 @@
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLN ExchangeRate\bin\Debug\netcoreapp2.2\PLN ExchangeRate.deps.json
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLN ExchangeRate\bin\Debug\netcoreapp2.2\PLN ExchangeRate.runtimeconfig.json
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLN ExchangeRate\bin\Debug\netcoreapp2.2\PLN ExchangeRate.runtimeconfig.dev.json
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLN ExchangeRate\bin\Debug\netcoreapp2.2\PLN ExchangeRate.dll
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLN ExchangeRate\bin\Debug\netcoreapp2.2\PLN ExchangeRate.pdb
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLN ExchangeRate\bin\Debug\netcoreapp2.2\PLN ExchangeRate.Views.dll
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLN ExchangeRate\bin\Debug\netcoreapp2.2\PLN ExchangeRate.Views.pdb
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLN ExchangeRate\obj\Debug\netcoreapp2.2\PLN ExchangeRate.csprojAssemblyReference.cache
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLN ExchangeRate\obj\Debug\netcoreapp2.2\PLN ExchangeRate.csproj.CoreCompileInputs.cache
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLN ExchangeRate\obj\Debug\netcoreapp2.2\PLN ExchangeRate.RazorAssemblyInfo.cache
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLN ExchangeRate\obj\Debug\netcoreapp2.2\PLN ExchangeRate.RazorAssemblyInfo.cs
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLN ExchangeRate\obj\Debug\netcoreapp2.2\PLN ExchangeRate.AssemblyInfoInputs.cache
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLN ExchangeRate\obj\Debug\netcoreapp2.2\PLN ExchangeRate.AssemblyInfo.cs
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLN ExchangeRate\obj\Debug\netcoreapp2.2\PLN ExchangeRate.TagHelpers.input.cache
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLN ExchangeRate\obj\Debug\netcoreapp2.2\PLN ExchangeRate.TagHelpers.output.cache
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLN ExchangeRate\obj\Debug\netcoreapp2.2\PLN ExchangeRate.RazorCoreGenerate.cache
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLN ExchangeRate\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLN ExchangeRate\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLN ExchangeRate\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLN ExchangeRate\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLN ExchangeRate\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLN ExchangeRate\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLN ExchangeRate\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLN ExchangeRate\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLN ExchangeRate\obj\Debug\netcoreapp2.2\PLN ExchangeRate.RazorTargetAssemblyInfo.cache
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLN ExchangeRate\obj\Debug\netcoreapp2.2\PLN ExchangeRate.RazorTargetAssemblyInfo.cs
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLN ExchangeRate\obj\Debug\netcoreapp2.2\PLN ExchangeRate.Views.pdb
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLN ExchangeRate\obj\Debug\netcoreapp2.2\PLN ExchangeRate.dll
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLN ExchangeRate\obj\Debug\netcoreapp2.2\PLN ExchangeRate.pdb
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLN ExchangeRate\obj\Debug\netcoreapp2.2\PLN ExchangeRate.csproj.CopyComplete

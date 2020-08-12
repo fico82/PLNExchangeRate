@@ -1,0 +1,12 @@
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLNExchangeRate.Service\obj\Debug\netcoreapp2.2\PLNExchangeRate.Service.csprojAssemblyReference.cache
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLNExchangeRate.Service\obj\Debug\netcoreapp2.2\PLNExchangeRate.Service.csproj.CoreCompileInputs.cache
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLNExchangeRate.Service\obj\Debug\netcoreapp2.2\PLNExchangeRate.Service.AssemblyInfoInputs.cache
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLNExchangeRate.Service\obj\Debug\netcoreapp2.2\PLNExchangeRate.Service.AssemblyInfo.cs
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLNExchangeRate.Service\bin\Debug\netcoreapp2.2\PLNExchangeRate.Service.deps.json
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLNExchangeRate.Service\bin\Debug\netcoreapp2.2\PLNExchangeRate.Service.dll
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLNExchangeRate.Service\bin\Debug\netcoreapp2.2\PLNExchangeRate.Service.pdb
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLNExchangeRate.Service\bin\Debug\netcoreapp2.2\PLNExchangeRate.Data.dll
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLNExchangeRate.Service\bin\Debug\netcoreapp2.2\PLNExchangeRate.Data.pdb
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLNExchangeRate.Service\obj\Debug\netcoreapp2.2\PLNExchangeRate.Service.csproj.CopyComplete
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLNExchangeRate.Service\obj\Debug\netcoreapp2.2\PLNExchangeRate.Service.dll
+C:\Users\Fico\source\repos\PLN ExchangeRate\PLNExchangeRate.Service\obj\Debug\netcoreapp2.2\PLNExchangeRate.Service.pdb
